@@ -6,8 +6,11 @@ This is git project... a tiny command-line task tracker
 
 
 
+
 ## Team
 
-|      Name      | GitHub username |
-|----------------|-----------------|
-| Kareem Mahmoud | kareemahmoud    |
+# | Name                     | GitHub Username |
+# |--------------------------|-----------------|
+# | Ebrahim Mohamed Elessawy | LordAdonis07    |
+# | Kareem Mahmoud Hanafy    | kareemahmoud    |
+
