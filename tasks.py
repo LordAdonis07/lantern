@@ -2,7 +2,7 @@ tasks = []
 
 
 def add_task(title):
-    task = {"title": title.strip()}
+    task = {"title": title.strip(), "done": False}
     tasks.append(task)
     return task
 
