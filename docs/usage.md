@@ -64,6 +64,10 @@ If no tasks are available, the `list` command displays:
 No tasks found.
 ```
 
+Save the file.
+
+This gives us the second documentation change for the PR. Next, we'll create the two commits required by the SRS: one for the bug fix and one for the documentation.
+
 This provides clear feedback instead of displaying an empty output.
 
 
