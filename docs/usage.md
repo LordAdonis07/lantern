@@ -56,6 +56,16 @@ lantern list
 
 This command displays the tasks currently stored in Lantern.
 
+**Empty Task List Behavior**
+
+If no tasks are available, the `list` command displays:
+
+```text
+No tasks found.
+```
+
+This provides clear feedback instead of displaying an empty output.
+
 
 
 \## 3. Data Persistence 
