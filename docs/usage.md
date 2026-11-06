@@ -176,5 +176,4 @@ The assigned responsibilities include:
 
 \- Preparing this usage and implementation documentation.
 ## 5. Development Notes
-The `lantern remove TASK_ID` command removes a task by its ID.
 
